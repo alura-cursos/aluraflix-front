@@ -1,0 +1,141 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Front End",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/cursos-online-mobile"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 50,
+      "categoriaId": 2,
+      "titulo": "O que é ReactJS?",
+      "description": "Neste vídeo, Vanessa Tonini e Mario Souto explicam isto para você falando sobre como esta ferramenta surgiu, para que ela serve, quais são suas aplicações e relação com outras ferramentas e como começar a trabalhar com ela.",
+      "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0"
+    },
+    {
+      "id": 51,
+      "categoriaId": 2,
+      "titulo": "Quais as melhores práticas com React?",
+      "description": "Recebemos o @Dev Soutinho nesse Hipsters Ponto Tube para falar sobre as melhores práticas com React e como você pode aproveitar melhor as possibilidades dessa tecnologia no cenário atual.",
+      "url": "https://www.youtube.com/watch?v=k77WZrvuDQU"
+    },
+    {
+      "id": 1,
+      "categoriaId": 2,
+      "titulo": "O que faz uma desenvolvedora front-end?",
+      "description": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!",
+      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "O que é REST?",
+      "url": "https://www.youtube.com/watch?v=weQ8ssA6iBU"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "NGINX: Servidor Web, Proxy Reverso e API Gateway",
+      "description": "Gabs Ferreira conversou com o @Dias de Dev, que é instrutor aqui da Alura e criou  nosso novo curso de NGINX",
+      "url": "https://www.youtube.com/watch?v=I4oydqod7j0"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Evolução do C++",
+      "description": "O que mudou durante a evolução da linguagem C e quais são, de fato, as novidades do C++ moderno? Nosso instrutor, Vinicius Dias, explica nesse vídeo esse processo de evolução e que novidades surgiram.",
+      "url": "https://www.youtube.com/watch?v=_n5hLYGjdfk"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Java, Spring, Microserviços e vagas na Hotmart",
+      "description": "Nessa live, Paulo Silveira conversa sobre a evolução do Java em microsserviços e sobre o caso da Hotmart com Marco Aurélio Ribeiro, especialista em desenvolvimento com 17 anos de carreira e trooper da Hotmart há mais de seis anos.",
+      "url": "https://www.youtube.com/watch?v=f46tw7lOt_0"
+    },
+    {
+      "id": 7,
+      "categoriaId": 3,
+      "titulo": "O que é Data Science?",
+      "description": "Python é o novo Excel? Para que serve o R, Pandas e Jupyter? E qual é, afinal, a diferença entre o Data Science, Business Intelligence e Machine Learning? Descubra no primeiro episódio de Hipsters Ponto Tube!",
+      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU"
+    },
+    {
+      "id": 8,
+      "categoriaId": 3,
+      "titulo": "Aprenda tudo sobre Data Science, seus primeiros passos",
+      "description": "Você é entusiasta de Inteligência artificial, é do mundo Python, de BI etc e quer aprender sobre Data Science? Preparamos este curso pra você!",
+      "url": "https://www.youtube.com/watch?v=IQdISZCosAE"
+    },
+    {
+      "id": 9,
+      "categoriaId": 3,
+      "titulo": "Quais as profissões em Ciência de Dados? com Mikaeri Ohana",
+      "description": "Quer saber qual carreira seguir na área de Ciência de Dados? A Mikaeri Ohana, especialista em Data Science, te ajuda a descobrir alguns caminhos para mergulhar nessa profissão.",
+      "url": "https://www.youtube.com/watch?v=5CHLH9LU1Uc"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Aprenda a transformar design em código com o Figma",
+      "description": "A Rafaella Ballerini, instrutora de Front-End na Alura, vem trazer várias dicas pra você transformar o design em código. Aprenda como exportar imagens, ícones e inspecionar os elementos direto do Figma.",
+      "url": "https://www.youtube.com/watch?v=sup2hlWm5yE"
+    },
+    {
+      "id": 11,
+      "categoriaId": 1,
+      "titulo": "Qual é a diferença entre back-end e front-end?",
+      "description": "Afinal, existe diferença entre back-end e front-end? Nesse Alura+, o nosso instrutor Vinícius Dias vai responder a essa questão tão recorrente no mundo do desenvolvimento.",
+      "url": "https://www.youtube.com/watch?v=a-l4z6V2yXA"
+    },
+    {
+      "id": 12,
+      "categoriaId": 1,
+      "titulo": "Introdução ao Postman",
+      "description": "As APIs são muito utilizadas para integrações de sistemas diversos. Mas, como fazer testes com elas sem utilizar um navegador e verificar seu retorno? O Vinicius Dias explica neste vídeo utilizando a ferramenta Postman.",
+      "url": "https://www.youtube.com/watch?v=op81bMbgZXs"
+    },
+    {
+      "id": 13,
+      "categoriaId": 1,
+      "titulo": "O que é ORM?",
+      "description": "Afinal, o que é, como funciona e para que serve um ORM? O instrutor Guilherme Lima explica neste Alura+ com exemplos práticos e simplificados.",
+      "url": "https://www.youtube.com/watch?v=x39vqeBTUmE"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "O que é Deep Learning?",
+      "description": "Afinal, o que é Deep Learning e onde se aplica? O Gui Silveira explica neste vídeo além de outros conceitos que rodeiam este tema como as redes neurais densas, estimadores, classificadores e mais.",
+      "url": "https://www.youtube.com/watch?v=kryIBKPVZ7A"
+    }
+  ]
+}
+
+
+
+
