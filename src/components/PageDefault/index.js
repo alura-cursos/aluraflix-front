@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import styled, { css } from 'styled-components';
 
@@ -16,14 +17,13 @@ const Main = styled.main`
   `}
 `;
 
-
 function PageDefault({ children, paddingAll }) {
   return (
     <>
       <Menu />
-        <Main paddingAll={paddingAll}>
-          {children}
-        </Main>
+      <Main paddingAll={paddingAll}>
+        {children}
+      </Main>
       <Footer />
     </>
   );
