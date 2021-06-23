@@ -8,7 +8,7 @@
     },
     {
       "id": 51,
-      "titulo": "Melhores práticas com React?",
+      "titulo": "Quais as melhores práticas com React?",
       "description": "Recebemos o @Dev Soutinho nesse Hipsters Ponto Tube para falar sobre as melhores práticas com React e como você pode aproveitar melhor as possibilidades dessa tecnologia no cenário atual.",
       "url": "https://www.youtube.com/watch?v=k77WZrvuDQU"
     },
@@ -21,7 +21,6 @@
     {
       "id": 2,
       "titulo": "O que é REST?",
-      "description": "Vídeo explicando o que é REST"
       "url": "https://www.youtube.com/watch?v=weQ8ssA6iBU"
     },
     {
@@ -89,6 +88,11 @@
       "titulo": "O que é Deep Learning?",
       "description": "Afinal, o que é Deep Learning e onde se aplica? O Gui Silveira explica neste vídeo além de outros conceitos que rodeiam este tema como as redes neurais densas, estimadores, classificadores e mais.",
       "url": "https://www.youtube.com/watch?v=kryIBKPVZ7A"
+    },
+    {
+      "titulo": "teste",
+      "url": "https://youtu.be/dB3CjQan8QA",
+      "id": 52
     }
   ]
 }
